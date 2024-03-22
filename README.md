@@ -15,7 +15,7 @@
 ## Projects
 
 - 🚀 [Exxen Clone]: https://yilancifurkan1.github.io/Exxen/
-- 🌟 [Disney+ Clone]: https://github.com/yilancifurkan1/Disney-Proje
+- 🌟 [Disney+ Clone]: https://yilancifurkan1.github.io/Disney-Proje/
 
 ## Contact
 
